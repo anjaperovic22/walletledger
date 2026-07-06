@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../WalletLedger.API/WalletLedger.API.csproj" />
+  <Project Path="../WalletLedger.Application/WalletLedger.Application.csproj" />
+  <Project Path="../WalletLedger.Infrastructure/WalletLedger.Infrastructure.csproj" />
+  <Project Path="WalletLedger.Domain.csproj" />
+</Solution>

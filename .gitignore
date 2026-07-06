@@ -1,0 +1,8 @@
+bin/
+obj/
+*.user
+*.db
+.vs/
+node_modules/
+.angular/
+dist/
