@@ -1,0 +1,14 @@
+# .NET
+bin/
+obj/
+*.user
+*.db
+
+# Angular
+node_modules/
+.angular/
+dist/
+
+# IDE
+.vs/
+.vscode/
